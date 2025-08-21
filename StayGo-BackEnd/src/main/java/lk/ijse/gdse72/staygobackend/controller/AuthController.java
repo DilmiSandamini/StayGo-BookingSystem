@@ -3,7 +3,7 @@ package lk.ijse.gdse72.staygobackend.controller;
 import lk.ijse.gdse72.staygobackend.dto.ApiResponse;
 import lk.ijse.gdse72.staygobackend.dto.AuthDTO;
 import lk.ijse.gdse72.staygobackend.dto.RegisterDTO;
-import lk.ijse.gdse72.staygobackend.service.impl.AuthService;
+import lk.ijse.gdse72.staygobackend.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

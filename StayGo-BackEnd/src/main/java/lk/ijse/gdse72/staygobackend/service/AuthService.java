@@ -1,4 +1,4 @@
-package lk.ijse.gdse72.staygobackend.service.impl;
+package lk.ijse.gdse72.staygobackend.service;
 
 import lk.ijse.gdse72.staygobackend.dto.AuthDTO;
 import lk.ijse.gdse72.staygobackend.dto.AuthResponseDTO;
